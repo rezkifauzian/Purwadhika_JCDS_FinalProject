@@ -1,4 +1,12 @@
- # FINAL PROJECT - PROPERTY VALUE ESTIMATION USING REGRESSION MODEL
+## How to Open Deployment Page
+1. Download / Clone this repository
+2. Install the needed package in ***requirements.txt*** with `pip install -r requirements.txt`
+3. Open the ***Dashboard*** folder
+4. Run the ***app.py*** with `python app.py`
+5. Open the link given
+
+
+# FINAL PROJECT - PROPERTY VALUE ESTIMATION USING REGRESSION MODEL
 
 by: PURWADHIKA JCDS 1202 - MATPLOTLIB TEAM 
 - Lis Cory
