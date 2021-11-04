@@ -3,7 +3,7 @@
 2. Install the needed package in ***requirements.txt*** with `pip install -r requirements.txt`
 3. Open the ***Dashboard*** folder
 4. Run the ***app.py*** with `python app.py`
-5. Open the localhost link given
+5. Open the localhost link given on your browser
 
 
 # FINAL PROJECT - PROPERTY VALUE ESTIMATION USING REGRESSION MODEL
